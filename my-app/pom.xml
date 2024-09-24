@@ -5,7 +5,7 @@
 
   <groupId>com.exemple</groupId>
   <artifactId>my-app</artifactId>
-  <version>1.0-IG-456-user-authentication-SNAPSHOT</version>
+  <version>0.0.1</version>
 
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
