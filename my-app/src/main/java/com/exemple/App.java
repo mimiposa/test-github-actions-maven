@@ -5,6 +5,6 @@ package com.exemple;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Orbion!");
+        System.out.println("Orbion v1!");
     }
 }
